@@ -2,9 +2,11 @@
 * text=auto
 <!DOCTYPE html>
 <html>
+<link rel="stylesheet" href="stylesheet.css">
 <head>
 <title>Page Title</title>
 </head>
+hr
 <body>
 
 <h1>This is a Heading</h1>
