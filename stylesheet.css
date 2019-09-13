@@ -20,6 +20,8 @@ float: left;
   text-align: center;
 }
 #hr{
-  margin-left: 500px;
-  margin-right: 600px;
+  margin-left: 450px;
+  margin-right: 550px;
+  width: 30px;
+  height: 40px;
 }
