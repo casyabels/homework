@@ -11,10 +11,15 @@ float: left;
   height: 400px;
 }
 #mainbody{
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 525px;
+  margin-right: 600px;
 }
 #header{
-  margin-left: 450px;
+  margin-left: 350px;
   margin-right: 450px;
+  text-align: center;
+}
+#hr{
+  margin-left: 500px;
+  margin-right: 600px;
 }
