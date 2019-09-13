@@ -1,4 +1,8 @@
 body {background-color: lightyellow;}
 .mainsquare{
-  
+  width: 300px;
+  height: 100px;
+  border-top: 10px skyblue;
+  border-bottom: 30px;
+
 }
