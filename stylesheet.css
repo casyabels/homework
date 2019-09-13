@@ -1,26 +1,5 @@
-.center{
-  margin-left: 20%;
+#header{
+  width: 150px;
+  height: 100px;
+  color: skyblue
 }
-
-.mainsquare{
-  width: 400px;
-  height: 200px;
-
-}
-
-
-h1{
-font-size: 30px;
-}
-.div2{
-  text-align: center;
-}
-
-}
-}
-<style>
-
-
-
-
-</style>
