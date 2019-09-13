@@ -1,16 +1,23 @@
 .center{
-  margin-left: 25%;
+  margin-left: 20%;
 }
 
 .mainsquare{
-  width: 500px;
+  width: 400px;
   height: 200px;
 
 }
 .div1{
    margin: 60%; 
 }
-.text{
-  height: 50px;
 
+h1{
+font-size: 35px;
 }
+
+<style>
+
+
+
+
+</style>
