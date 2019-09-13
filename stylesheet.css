@@ -1,0 +1,12 @@
+body {background-color: lightyellow;}
+.center {
+  display: block;
+ width: 50%;
+}
+.border{
+  border-top: 50%;
+  border-bottom: 50%;
+}
+.border{
+  border-block-color: 50%;
+}
