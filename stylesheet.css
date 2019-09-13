@@ -1,12 +1,7 @@
 #header{
-  width: 150px;
-  height: 100px;
-  color: skyblue
-}
-#header2{
-width: 400px;
-height: 15px;
-
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  
 }
 
-}
