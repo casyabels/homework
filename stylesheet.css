@@ -7,14 +7,15 @@
   height: 200px;
 
 }
-.div1{
-   margin: 60%; 
-}
+
 
 h1{
-font-size: 35px;
+font-size: 30px;
 }
+.div3{
+  align-self: auto;
 
+}
 <style>
 
 
