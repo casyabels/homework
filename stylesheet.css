@@ -10,4 +10,8 @@ background-color: skyblue;
   height: 25px;
   position: relative;
 }
-
+#picture{
+  float: right;
+  width: 300px;
+  height: 400px;
+}
