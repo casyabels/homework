@@ -5,7 +5,6 @@
 background-color: skyblue;
 }
 
-}
 #header{
   margin-left: 350px;
   margin-right: 450px;
@@ -29,7 +28,7 @@ align-items: flex-start;
 
 #picture{
 order:2;
-align-self:flex-end
+align-self:flex-end;
 }
 
 
