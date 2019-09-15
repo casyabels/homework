@@ -5,16 +5,6 @@
 background-color: skyblue;
 }
 
-#picture{
-float: right;
-  width: 300px;
-  height: 400px;
-  margin-bottom: 900px;
-  display: inline;
-}
-#mainbody{
-  margin-left: 525px;
-  margin-right: 600px;
 }
 #header{
   margin-left: 350px;
@@ -27,3 +17,19 @@ hr{
   height: 30px;
   background-color: rgb(138, 218, 255);
 }
+.column {
+  float: right;
+  width: 33.33%;
+  padding: 20px;
+}
+#mainbody picture{
+display: flex;
+align-items: flex-start;
+}
+
+#picture{
+order:2;
+align-self:flex-end
+}
+
+
